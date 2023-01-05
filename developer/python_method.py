@@ -4,12 +4,12 @@ class cal:
         self.x = x
         self.y = y
 
-    #在cal_add 
+    #cal_add 
     @property          
     def cal_add(self):
         return self.x + self.y
 
-    #在cal_info
+    #cal_info
     @classmethod       
     def cal_info(cls):  #python
         print(cls.cal_name)   # cls.cal_name
