@@ -6,7 +6,7 @@ We focus on machine learning rather than data preprocessing. Many software, such
 
 # Citing information:
 If you think this software (or some function) is useful, citing the easylearn software in your paper or code would be greatly appreciated!
-Citing link: https://github.com/easylearn-fmri/easylearn  
+Citing link: [https://github.com/easylearn-fmri/easylearn ](https://github.com/houssemlachtar/Easy-Learning) 
 
 # Install  
 ```
@@ -52,53 +52,11 @@ The follows will be automatically install if you use "pip install -U easylearn" 
 - matplotlib
 
 # Development    
-At present, the project is in the development stage. We hope you can join us!   
+At present, the project is in the development stage. I hope you can join me!   
 Any contributions you make will be appreciated and announced.   
-Please refer to [developer link](https://github.com/easylearn-fmri/easylearn/tree/master/developer) for details.
+Please refer to [developer link](https://github.com/houssemlachtar/Easy-Learning/tree/main/developer) for details.
 # <img src="./img/easylearn-flow-chart.jpg" width = "1000" height = "1200" div align=left />
-> Email: lichao19870617@gmail.com  
-> Wechat: 13591648206  
-
-# Initiators
-##### Ke Xu
-    kexu@vip.sina.com  
-    Brain Function Research Section, The First Affiliated Hospital of China Medical University, Shenyang, Liaoning, PR China.  
-    Department of Radiology, The First Affiliated Hospital of China Medical University.
-
-##### Chao Li
-    lichao19870617@gmail.com
-    Brain Function Research Section, The First Affiliated Hospital of China Medical University, Shenyang, Liaoning, PR China.  
-    
-##### Mengshi Dong
-    dongmengshi1990@163.com  
-    Department of Radiology, The First Affiliated Hospital of China Medical University, Shenyang, Liaoning, PR China.   
-
-# Supervisors/Consultants 
-##### Yanqing Tang  
-    yanqingtang@163.com  
-    1 Brain Function Research Section, The First Affiliated Hospital of China Medical
-    University, Shenyang, Liaoning, PR China.  
-    2 Department of Psychiatry, The First Affiliated Hospital of China Medical University,
-    Shenyang, Liaoning, PR China.        
-    
-##### Yong He  
-    yong.he@bnu.edu.cn  
-    1 National Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University, Beijing 100875, China  
-    2 Beijing Key Laboratory of Brain Imaging and Connectomics, Beijing Normal University, Beijing 100875, China  
-    3 IDG/McGovern Institute for Brain Research, Beijing Normal University, Beijing 100875, China 
-
-# Maintainers
-##### Vacancy 1   
-Contributors will first add to the [contributors_list.md](./developer/contributors_list.md). Once your contribution is important or more than or equal to 1/4 of the total code, we will add you as a maintainer.  
-
-##### Vacancy 2  
-Contributors will first add to the [contributors_list.md](./developer/contributors_list.md). Once your contribution is important or more than or equal to 1/4 of the total code, we will add you as a maintainer. 
-
-# Contributors  
-The current contributors are in [contributors_list.md](./developer/contributors_list.md). Once your contribution is important or more than or equal to 1/4 of the total code, we will add you as a maintainer. 
-
-# Curent team members
-The current team members are in [current_team_members.md](./developer/current_team_members.md). If you contributed your code, please add yourself to the contributor list.
+> Email: lachtarhoussem4@gmail.com  
 
 
 # Results
